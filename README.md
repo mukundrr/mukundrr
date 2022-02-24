@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mukund R
+- 🖥 I'm Software Engineer @ Philips Innovation Campus, Banglore
+- 👀 I work mainly on C, C++, Python, Java Spring Boot, ReactJS languages 
+- 🌱 I’m currently learning Cloud Services mainly AWS
